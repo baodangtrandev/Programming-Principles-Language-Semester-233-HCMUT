@@ -1,0 +1,3 @@
+Program([
+	VarDecl(y, AutoType, IntegerLit(10))
+])

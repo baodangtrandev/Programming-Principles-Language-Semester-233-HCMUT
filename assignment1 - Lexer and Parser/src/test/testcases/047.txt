@@ -1,0 +1,6 @@
+
+            foo : function void () {
+                bar : function void () {}
+                bar();
+            }
+        

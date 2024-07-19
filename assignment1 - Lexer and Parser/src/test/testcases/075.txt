@@ -1,0 +1,15 @@
+
+            foo : function void () {
+                if (a > b) {
+                    if (c < d) {
+                        e = c;
+                    } else {
+                        e = d;
+                    }
+                } else if (a < b) {
+                    f = b;
+                } else {
+                    g = 0;
+                }
+            }
+        

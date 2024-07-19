@@ -1,0 +1,5 @@
+
+            foo : function void () {
+                y = 2.5;
+            }
+        

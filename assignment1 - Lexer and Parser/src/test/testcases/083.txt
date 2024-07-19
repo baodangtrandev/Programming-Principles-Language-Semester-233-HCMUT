@@ -1,0 +1,5 @@
+
+            foo : function array [3] of integer () {
+                return {1, 2, 3};
+            }
+        

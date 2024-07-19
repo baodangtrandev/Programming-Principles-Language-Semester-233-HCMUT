@@ -1,0 +1,8 @@
+
+            foo : function integer (a: integer, b: integer) {
+                return a + b;
+            }
+            bar : function void () {
+                x = foo(1, foo(2, 3));
+            }
+        

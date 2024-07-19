@@ -1,0 +1,3 @@
+
+            h : integer = a * b;
+        

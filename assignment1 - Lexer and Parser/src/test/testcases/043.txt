@@ -1,0 +1,8 @@
+
+            foo : function integer (a: integer) {
+                return a;
+            }
+            foo : function float (a: float) {
+                return a;
+            }
+        

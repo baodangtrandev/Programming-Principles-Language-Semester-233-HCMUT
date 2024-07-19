@@ -1,0 +1,3 @@
+Program([
+	VarDecl(id, AutoType, BinExpr(::, BinExpr(-, BinExpr(+, ArrayCell(a, [IntegerLit(1)]), BinExpr(*, ArrayCell(b, [IntegerLit(2)]), ArrayCell(c, [IntegerLit(3)]))), BinExpr(%, BinExpr(/, ArrayCell(d, [IntegerLit(4)]), ArrayCell(e, [IntegerLit(5)])), ArrayCell(f, [IntegerLit(6)]))), ArrayCell(g, [IntegerLit(7)])))
+])

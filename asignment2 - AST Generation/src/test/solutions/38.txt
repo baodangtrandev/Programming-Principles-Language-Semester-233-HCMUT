@@ -1,0 +1,4 @@
+Program([
+	VarDecl(a, BooleanType)
+	VarDecl(b, BooleanType)
+])

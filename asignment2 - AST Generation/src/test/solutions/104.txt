@@ -1,0 +1,3 @@
+Program([
+	VarDecl(a, AutoType, BinExpr(>, FuncCall(foo, [IntegerLit(1)]), BinExpr(&&, BinExpr(||, FuncCall(bar, [IntegerLit(2)]), FuncCall(baz, [IntegerLit(3)])), FuncCall(qux, [IntegerLit(4)]))))
+])

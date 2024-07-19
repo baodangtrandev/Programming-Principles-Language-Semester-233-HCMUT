@@ -1,0 +1,3 @@
+
+            s : boolean = t && u;
+        

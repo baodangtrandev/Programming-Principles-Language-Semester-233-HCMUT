@@ -1,0 +1,3 @@
+Program([
+	VarDecl(y, FloatType, BinExpr(-, FloatLit(3.5), FloatLit(2.1)))
+])

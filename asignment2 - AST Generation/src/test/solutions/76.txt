@@ -1,0 +1,3 @@
+Program([
+	VarDecl(l, BooleanType, UnExpr(!, Id(y)))
+])

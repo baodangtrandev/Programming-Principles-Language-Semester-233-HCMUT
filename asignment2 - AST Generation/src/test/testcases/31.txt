@@ -1,0 +1,9 @@
+
+            foo : function void () {  
+                {
+                    a,b : float;
+                    c, d : float = 1, 2;
+                    e : string = "@";
+                }
+            }
+        

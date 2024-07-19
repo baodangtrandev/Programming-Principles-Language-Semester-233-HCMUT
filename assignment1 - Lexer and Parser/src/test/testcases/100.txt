@@ -1,0 +1,13 @@
+
+            foo : function void () {
+                if (a > b) {
+                    for (i = 0, i < 10, i + 1) {
+                        a = a + i;
+                    }
+                } else {
+                    for (j = 0, j < 5, j + 1) {
+                        a = a - j;
+                    }
+                }
+            }
+        

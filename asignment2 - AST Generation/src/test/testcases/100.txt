@@ -1,0 +1,5 @@
+
+            foo : function void () {
+                n = o != p;
+            }
+        

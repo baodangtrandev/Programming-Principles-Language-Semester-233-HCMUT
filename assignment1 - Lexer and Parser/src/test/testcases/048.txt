@@ -1,0 +1,5 @@
+
+            isEven : function boolean (a: integer) {
+                return a % 2 == 0;
+            }
+        

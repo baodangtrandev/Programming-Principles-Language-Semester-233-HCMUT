@@ -1,0 +1,5 @@
+
+            a, b : boolean = 1, 2;
+            c : float = 3;
+            d, e, g : auto = 1, 2, 3;
+        

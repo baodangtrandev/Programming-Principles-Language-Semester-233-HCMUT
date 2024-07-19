@@ -1,0 +1,4 @@
+
+            id : integer = a[1+2] + a[2, 3];
+            id : integer = a[1+2, a[2, 3]];
+        

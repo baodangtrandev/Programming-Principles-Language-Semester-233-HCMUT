@@ -1,0 +1,5 @@
+
+                foo : function auto (a: integer, b: float, c: boolean, d: string) {
+                    return a + b;
+                }
+            

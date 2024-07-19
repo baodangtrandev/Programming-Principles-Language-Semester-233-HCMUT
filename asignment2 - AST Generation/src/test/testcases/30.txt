@@ -1,0 +1,9 @@
+
+            foo : function void () {  
+                {
+                    break;
+                    continue;
+                    {{{}}}
+                }
+            }
+        

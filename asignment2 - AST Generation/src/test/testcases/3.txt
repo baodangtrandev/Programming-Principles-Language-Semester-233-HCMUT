@@ -1,0 +1,4 @@
+
+            a, b : string;
+            c : auto;  
+        

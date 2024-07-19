@@ -1,0 +1,11 @@
+
+            foo : function void () {
+                if (a > b) {
+                    if (c > d) {
+                        a = a + 1;
+                    } else {
+                        a = a - 1;
+                    }
+                }
+            }
+        

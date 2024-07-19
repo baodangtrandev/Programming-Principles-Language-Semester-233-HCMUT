@@ -1,0 +1,3 @@
+
+            foo : function void (arr: array [3] of integer = {1, 2, 3}) {}
+        

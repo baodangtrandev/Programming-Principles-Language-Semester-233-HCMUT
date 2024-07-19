@@ -1,0 +1,3 @@
+Program([
+	VarDecl(p, BooleanType, BinExpr(!=, Id(q), Id(r)))
+])

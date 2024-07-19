@@ -1,0 +1,5 @@
+
+            a : auto;
+            c, d : auto;  
+            e : boolean;
+        

@@ -1,0 +1,7 @@
+
+            foo : function void () {
+                do {
+                    continue;
+                } while (false);
+            }
+        

@@ -1,0 +1,5 @@
+
+            greet : function string () {
+                return "Hello, world!";
+            }
+        

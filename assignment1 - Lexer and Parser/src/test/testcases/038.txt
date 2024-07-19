@@ -1,0 +1,8 @@
+
+            foo : function void () {
+                {
+                    a : integer;
+                    a = 10;
+                }
+            }
+        

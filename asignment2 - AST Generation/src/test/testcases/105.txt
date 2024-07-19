@@ -1,0 +1,4 @@
+
+            a, b : array [3] of string;
+            c : array [4] of auto;  
+        

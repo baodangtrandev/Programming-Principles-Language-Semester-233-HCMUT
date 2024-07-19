@@ -1,0 +1,5 @@
+
+            foo : function void () {
+                b[1] = "test";
+            }
+        

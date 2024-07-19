@@ -1,0 +1,7 @@
+
+            foo : function void () {
+                if (a > b) {
+                    c := a;
+                }
+            }
+        

@@ -1,0 +1,9 @@
+
+            foo : function void () {
+                if (a > b) {
+                    c /= a;
+                } else {
+                    c = b;
+                }
+            }
+        
