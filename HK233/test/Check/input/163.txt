@@ -1,0 +1,9 @@
+
+            main : function auto() {
+                foo_x(2);
+            }
+
+            foo_x: function auto(c : auto) {
+                foo_x(2);
+            }
+        

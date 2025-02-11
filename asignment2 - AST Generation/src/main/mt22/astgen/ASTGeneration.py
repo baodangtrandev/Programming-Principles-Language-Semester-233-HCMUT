@@ -3,7 +3,7 @@ from MT22Parser import MT22Parser
 from AST import *
 
 class ASTGeneration(MT22Visitor):
-#type_: BOOLEAN | INTEGER | FLOAT | STRING | AUTO | array_type;
+#type_: BOOLEAN | INTEGER | FLOAT | STRING | AUTO | array_type; int a = 5 integer type -> object IntegerType()
     def visitType_(self, ctx: MT22Parser.Type_Context):
         if ctx.INTEGER():
             return IntegerType()

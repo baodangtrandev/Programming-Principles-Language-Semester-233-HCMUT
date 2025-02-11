@@ -1,0 +1,5 @@
+
+            a : integer = 100;
+            y : integer = c;
+            main : function void(){}
+        

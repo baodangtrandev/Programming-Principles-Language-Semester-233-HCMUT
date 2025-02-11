@@ -1,0 +1,5 @@
+
+            hihi : function void () {}
+            hihi : function void () {}
+            main : function void(){}
+        

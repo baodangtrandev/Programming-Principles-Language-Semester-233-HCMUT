@@ -1,0 +1,10 @@
+
+            foo_x: function void(inherit c : integer, inherit b : integer) inherit foo_y{preventDefault();}
+            foo_y: function void( b : integer){}
+            foo_z: function integer() inherit foo_x{
+                preventDefault();
+                a, d : integer = b, c;
+            }            
+
+            main : function auto() {}
+        

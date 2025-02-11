@@ -1,0 +1,9 @@
+
+            foo_a : function integer (b : auto){
+                b = 2.0;
+                b = 2;
+                b = "@";
+            }
+
+            main : function void() {}
+        

@@ -1,0 +1,7 @@
+
+            x : integer;
+            b : float;
+            x : string;
+
+            main : function void(){}
+        

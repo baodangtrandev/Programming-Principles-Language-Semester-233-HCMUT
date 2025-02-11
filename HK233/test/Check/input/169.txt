@@ -1,0 +1,15 @@
+
+            main : function void() {
+                x : auto = 1; // integer;
+                y : auto = 2.0; // float;
+                z : auto = "a"; // string;
+                t : auto = true; // boolean;
+                m : array [1] of integer;
+                n : array [1] of float;
+                p :  array [1] of string;
+                q :  array [2] of integer;
+                k :  array [1,2] of integer;
+
+                m = q;
+            }
+        

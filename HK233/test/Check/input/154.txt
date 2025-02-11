@@ -1,0 +1,12 @@
+
+            foo_x: function integer(inherit c : float) {return 1;}
+            foo_y: function void(inherit b : float){}
+            foo_z: function void(){}            
+
+            main : function auto() {
+                foo_x(1.0);
+                foo_y(1.0);
+                foo_z();
+                foo_m();
+            }
+        

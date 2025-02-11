@@ -1,0 +1,10 @@
+
+            main : function void() {
+                if(1){
+                    a : auto = 100;
+                } 
+                else {
+                    a : auto = 100;
+                }
+            }
+        
